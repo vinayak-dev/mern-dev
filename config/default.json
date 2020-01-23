@@ -1,0 +1,7 @@
+{
+    "mongoURI" : "mongodb+srv://vinayak:812445@cluster0-zt90a.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret" : "mysecrettoken",
+    "githubClientId": "3cbc27134f6dc9bae265",
+    "githubClientSecret": "66e3d61f32ee22105b11eb49efc261a9bfc13864"
+
+}
